@@ -1,0 +1,6 @@
+{
+  "name": "FinFy",
+  "description": "FinFy is a gorgeous, high-fidelity music streaming web application built with a premium Midnight Neon theme, featuring interactive playbacks, fully working audio timelines, searchable tracks, liked songs library, and animated bottom sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
