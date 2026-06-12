@@ -1,16 +1,16 @@
 <div align="center">
   <img width="1200" height="475" alt="FinFy Banner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 
-  <h1>🎵 FinFy - High-Fidelity Music Streaming</h1>
+  <h1> FinFy - High-Fidelity Music Streaming</h1>
   
   <p>A gorgeous, high-fidelity music streaming web application built with a premium Midnight Neon theme.</p>
 </div>
 
-## 🌟 Overview
+##  Overview
 
 FinFy is not just another music player. It features interactive playbacks, fully working audio timelines, searchable tracks, a liked songs library, and beautifully animated bottom sheets. The backend boasts a unique **Mathematical Synthesizer** that generates real sound waves (WAV files) on the fly, alongside supporting seamless HTTP Range requests for instant scrubbing and zero-latency seeking.
 
-## ✨ Key Features
+##  Key Features
 
 - **Real-time Audio Synthesis:** On-the-fly mathematical waveform generation (Retrowave, Acid Techno, Urban Jazz, etc.).
 - **Local Audio Support:** Automatically scans and serves `.mp3` and `.wav` files from the `backend/songs` directory.
@@ -24,7 +24,7 @@ FinFy is not just another music player. It features interactive playbacks, fully
 - **Frontend:** React, TypeScript, Tailwind CSS, Framer Motion, Lucide React, Vite.
 - **Backend:** Node.js, Express, Custom Audio Synthesis Engine.
 
-## 🚀 Getting Started
+##  Getting Started
 
 **Prerequisites:** Node.js (v18+ recommended)
 
@@ -47,6 +47,6 @@ FinFy is not just another music player. It features interactive playbacks, fully
 5. **Open the app:**
    Navigate to `http://localhost:3000` in your browser and enjoy the vibes.
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License.
